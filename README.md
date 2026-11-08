@@ -52,5 +52,5 @@ Cámbiala si el backend corre en otro puerto o en otro servidor.
 
 ## Equipo
 
-- Mar Bellver Alecreu (frontend)
+- Mar Bellver Alacreu (frontend)
 - Piero Yovera Anaya (backend, en [taskflow-backend](https://github.com/piero2607/tasflow-backend))

@@ -1,6 +1,6 @@
 # TaskFlow Frontend
 
-Interfaz web de TaskFlow, una aplicación para gestionar proyectos y tareas en equipos pequeños. Este repositorio tiene solo el frontend. El backend está en [taskflow-backend](https://github.com/USUARIO/taskflow-backend).
+Interfaz web de TaskFlow, una aplicación para gestionar proyectos y tareas en equipos pequeños. Este repositorio tiene solo el frontend. El backend está en [taskflow-backend](https://github.com/piero2607/tasflow-backend).
 
 Es el proyecto final del ciclo de Desarrollo de Aplicaciones Web (DAW), curso 2026-2027.
 
@@ -53,4 +53,4 @@ Cámbiala si el backend corre en otro puerto o en otro servidor.
 ## Equipo
 
 - Mar Bellver Alecreu (frontend)
-- Piero Yovera Anaya (backend, en [taskflow-backend](https://github.com/USUARIO/taskflow-backend))
+- Piero Yovera Anaya (backend, en [taskflow-backend](https://github.com/piero2607/tasflow-backend))
